@@ -1,0 +1,5 @@
+oled96.initDisplay()
+oled96.initDisplay()
+oled96.clearDisplay()
+oled96.setTextXY(0, 0)
+oled96.writeString("Hallo")
